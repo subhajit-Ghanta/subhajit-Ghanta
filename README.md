@@ -1,16 +1,26 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**subhajit-Ghanta/subhajit-Ghanta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Intro](./assets/hero.svg?v=1)
 
-Here are some ideas to get you started:
+![About](./assets/about-life.svg?v=1)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Stack](./assets/stack.svg?v=1)
+
+![ID](./assets/id-dashboard.svg?v=1)
+
+![Connect](./assets/connect.svg?v=1)
+
+</div>
+
+## Featured projects
+
+| Project | What it does | Built with |
+| --- | --- | --- |
+| [microworkers-notifier](https://github.com/subhajit-ghanta/microworkers-notifier) | Telegram notifier for Microworkers jobs | Python |
+| [Customer-Churn](https://github.com/subhajit-ghanta/Customer-Churn) | Customer Churn Analysis Dashboard built using Microsoft Power BI | Power BI |
+| [smart-Route-system](https://github.com/subhajit-ghanta/smart-Route-system) | Smart Route System | JavaScript |
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/subhajit-ghanta-745606380/)
+- [GitHub](https://github.com/subhajit-ghanta)
