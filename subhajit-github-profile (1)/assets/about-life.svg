@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="400" viewBox="0 0 900 400" role="img" aria-labelledby="abt abd">
+<title id="abt">What Subhajit works on</title><desc id="abd">Capabilities list beside a three-slide carousel: data exploration, open source, real-world problems.</desc>
+<defs><style>.abd{font-family:"Bebas Neue","Oswald","Arial Narrow",Impact,"Helvetica Neue",Arial,sans-serif;font-weight:800;letter-spacing:.5px}
+.abs{font-family:"Inter","Segoe UI",system-ui,-apple-system,Roboto,"Helvetica Neue",Arial,sans-serif}
+.abm{font-family:ui-monospace,"SF Mono","JetBrains Mono",Menlo,Consolas,"DejaVu Sans Mono",monospace}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+
+.absl{opacity:0;animation-duration:12s;animation-iteration-count:infinite;animation-timing-function:linear}
+.absl1{opacity:1;animation-name:abs1}.absl2{animation-name:abs2}.absl3{animation-name:abs3}
+@keyframes abs1{0%{opacity:1}30%{opacity:1}33.3%{opacity:0}96.6%{opacity:0}100%{opacity:1}}
+@keyframes abs2{0%,30%{opacity:0}33.3%{opacity:1}63.3%{opacity:1}66.7%{opacity:0}100%{opacity:0}}
+@keyframes abs3{0%,63.3%{opacity:0}66.7%{opacity:1}96.6%{opacity:1}100%{opacity:0}}
+.abpg{transform-box:fill-box;transform-origin:left center;transform:scaleX(0);animation-duration:12s;animation-iteration-count:infinite;animation-timing-function:linear}
+.abpg1{transform:scaleX(1);animation-name:abp1}.abpg2{animation-name:abp2}.abpg3{animation-name:abp3}
+@keyframes abp1{0%{transform:scaleX(0)}33.3%{transform:scaleX(1)}99.9%{transform:scaleX(1)}100%{transform:scaleX(0)}}
+@keyframes abp2{0%,33.3%{transform:scaleX(0)}66.6%{transform:scaleX(1)}99.9%{transform:scaleX(1)}100%{transform:scaleX(0)}}
+@keyframes abp3{0%,66.6%{transform:scaleX(0)}100%{transform:scaleX(1)}}
+.abin{animation:abfd .9s ease-out both}
+@keyframes abfd{from{opacity:0;transform:translateX(-10px)}to{opacity:1;transform:translateX(0)}}
+</style>
+<linearGradient id="abhair" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#247bff"/><stop offset="1" stop-color="#ff354f"/></linearGradient>
+<linearGradient id="abacc" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#247bff"/><stop offset="1" stop-color="#ff354f"/></linearGradient>
+<pattern id="abdots" width="16" height="16" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#fff" fill-opacity=".07"/></pattern>
+<linearGradient id="abrimB" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#247bff" stop-opacity=".28"/><stop offset=".4" stop-color="#247bff" stop-opacity="0"/></linearGradient>
+<linearGradient id="abrimR" x1="1" y1="0" x2="0" y2="0"><stop offset="0" stop-color="#ff354f" stop-opacity=".26"/><stop offset=".4" stop-color="#ff354f" stop-opacity="0"/></linearGradient>
+<clipPath id="abframe"><rect width="900" height="400" rx="28"/></clipPath>
+</defs>
+<g clip-path="url(#abframe)"><rect width="900" height="400" fill="#070b16"/><rect width="900" height="400" fill="url(#abdots)"/>
+
+<text class="abd" x="56" y="92" font-size="52" textLength="330" lengthAdjust="spacingAndGlyphs" fill="#f4f6ff">What I work on</text>
+<g class="abin"><rect x="56" y="139" width="12" height="12" rx="3" fill="url(#abacc)"/><text class="abs" x="82" y="151" font-size="18" font-weight="600" fill="#f4f6ff">Data Analytics &amp; Data Visualization</text><rect x="56" y="185" width="12" height="12" rx="3" fill="url(#abacc)"/><text class="abs" x="82" y="197" font-size="18" font-weight="600" fill="#f4f6ff">Machine Learning Model Development</text><rect x="56" y="231" width="12" height="12" rx="3" fill="url(#abacc)"/><text class="abs" x="82" y="243" font-size="18" font-weight="600" fill="#f4f6ff">Python Programming</text><rect x="56" y="277" width="12" height="12" rx="3" fill="url(#abacc)"/><text class="abs" x="82" y="289" font-size="18" font-weight="600" fill="#f4f6ff">Data Cleaning &amp; Feature Engineering</text><rect x="56" y="323" width="12" height="12" rx="3" fill="url(#abacc)"/><text class="abs" x="82" y="335" font-size="18" font-weight="600" fill="#f4f6ff">SQL for Data Analysis</text></g>
+<rect x="500" y="40" width="360" height="320" rx="24" fill="#0b1226"/><rect x="500" y="40" width="360" height="320" rx="24" fill="url(#abdots)"/>
+<rect x="500.75" y="40.75" width="358.5" height="318.5" rx="23.5" fill="none" stroke="url(#abhair)" stroke-width="1.5" stroke-opacity=".85"/>
+<g class="absl absl1"><text class="abm" x="532" y="92" font-size="14" fill="#aab5d1">01 / 03</text><text class="abd" x="532" y="158" font-size="50" fill="#f4f6ff">Data</text><text class="abd" x="532" y="210" font-size="50" fill="#247bff">Exploration</text><text class="abs" x="532" y="254" font-size="16" fill="#aab5d1">Turning raw data into</text><text class="abs" x="532" y="278" font-size="16" fill="#aab5d1">meaningful insights.</text></g><g class="absl absl2"><text class="abm" x="532" y="92" font-size="14" fill="#aab5d1">02 / 03</text><text class="abd" x="532" y="158" font-size="50" fill="#f4f6ff">Open</text><text class="abd" x="532" y="210" font-size="50" fill="#ff354f">Source</text><text class="abs" x="532" y="254" font-size="16" fill="#aab5d1">Building and sharing</text><text class="abs" x="532" y="278" font-size="16" fill="#aab5d1">code on GitHub.</text></g><g class="absl absl3"><text class="abm" x="532" y="92" font-size="14" fill="#aab5d1">03 / 03</text><text class="abd" x="532" y="158" font-size="50" fill="#f4f6ff">Real-world</text><text class="abd" x="532" y="210" font-size="50" fill="#247bff">problems</text><text class="abs" x="532" y="254" font-size="16" fill="#aab5d1">Intelligent solutions that</text><text class="abs" x="532" y="278" font-size="16" fill="#aab5d1">solve them.</text></g><rect x="532" y="318" width="96" height="5" rx="2.5" fill="#1b2540"/><rect class="abpg abpg1" x="532" y="318" width="96" height="5" rx="2.5" fill="url(#abacc)"/><rect x="638" y="318" width="96" height="5" rx="2.5" fill="#1b2540"/><rect class="abpg abpg2" x="638" y="318" width="96" height="5" rx="2.5" fill="url(#abacc)"/><rect x="744" y="318" width="96" height="5" rx="2.5" fill="#1b2540"/><rect class="abpg abpg3" x="744" y="318" width="96" height="5" rx="2.5" fill="url(#abacc)"/></g>
+<rect x=".75" y=".75" width="898.5" height="398.5" rx="27.5" fill="none" stroke="url(#abhair)" stroke-width="1.5" stroke-opacity=".85"/>
+</svg>
